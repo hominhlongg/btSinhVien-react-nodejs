@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "id": "067b-a8cc-fbd-a704",
+      "name": "Nguyen Trung Hau",
+      "address": "hue"
+    },
+    {
+      "id": "25da-87e2-4ca-a208",
+      "name": "Cao Quang Khai",
+      "address": "quang tri"
+    }
+  ]
+}
